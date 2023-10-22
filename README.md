@@ -15,6 +15,8 @@ I also try to catch up with the rapid development of large language models.
 - marksong025@gmail.com
 - ys5820@nyu.edu
 
+Thank you for reading!
+
 
 
 
