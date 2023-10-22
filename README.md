@@ -3,10 +3,12 @@ My name is Yulin. I am pursuing my MS in Computer Science degree at New York Uni
 
 ### My Past Experience
 I explored a lot of things in NLP, and created some full-stack projects.
+
 Here is my [resume](https://github.com/SoyMark/SoyMark/blob/main/Yulin_Song_Resume.pdf)
 
 ### Currently Learning:
 I am developing a web application named SMOOTH recently, for which I am learning Django, NextJS, and AWS EB. 
+
 I also try to catch up with the rapid development of large language models.
 
 ### How to Reach me:
