@@ -4,8 +4,6 @@ My name is Yulin. I am pursuing my MS in Computer Science degree at New York Uni
 ### My Past Experience
 I explored a lot of things in NLP, and created some full-stack projects.
 
-Here is my [resume](https://github.com/SoyMark/SoyMark/blob/main/Yulin_Song_Resume.pdf) (updated 11/2023)
-
 ### Currently doing:
 I am a Machine Learning intern at Kensho Technologies right now, focusing on LLM Agent related Research and Development, including dynamic prompting and problem solving with multiple tools.
 
