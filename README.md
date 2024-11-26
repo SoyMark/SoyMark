@@ -5,8 +5,7 @@ My name is Yulin. I am pursuing my MS in Computer Science degree at New York Uni
 I explored a lot of things in NLP, and created some full-stack projects.
 
 ### Currently doing:
-I am a Machine Learning intern at Kensho Technologies right now, focusing on LLM Agent related Research and Development, including dynamic prompting and problem solving with multiple tools.
-
+I am a second-year master student at NYU right now.
 
 ### How to Reach me:
 - marksong025@gmail.com
